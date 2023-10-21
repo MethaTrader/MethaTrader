@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "07af242d2e7e5a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "9741990f75b12623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01cca4485da64cfd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d735d05193350079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MethaTrader.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "122b5b7a15817c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5c3a538986ca90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe526a6f5b917306",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29a7e11c4eb2bb39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4af1b16bc93f5d6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41c8afb6fca46406",
+    "type": "split",
+    "children": [
+      {
+        "id": "39fe0429678f2ae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ada15f6b35da6783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MethaTrader.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c563c103052054b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MethaTrader.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31b8c4cd493d2cbd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "03208fdb4b7b6589",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MethaTrader.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d735d05193350079",
+  "lastOpenFiles": [
+    "Текстовый документ.txt",
+    "assets/laravel.png",
+    "MethaTrader.md",
+    "assets/aiogram.png",
+    "Pasted image 20231021231546.png",
+    "assets",
+    "assets/opencv.png",
+    "assets/javascript.png",
+    "assets/python.png",
+    "assets/php.png"
+  ]
+}
